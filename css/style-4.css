@@ -422,12 +422,12 @@ a.action {
   letter-spacing: 2px;
 }
 a.action:hover {
-  border-color: #ff5075;
+  border-color: #FFFFFF;
   color: #FFFFFF;
   opacity: 1;
 }
 a.action:active, a.action:focus {
-  border-color: #e90031;
+  border-color: #FFFFFF;
   color: #FFFFFF;
   box-shadow: none;
   opacity: 1;
